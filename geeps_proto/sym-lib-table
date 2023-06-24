@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name "lib_sch")(type "KiCad")(uri "${KIPRJMOD}/lib_sch.kicad_sym")(options "")(descr ""))
-  (lib (name "MCU_RaspberryPi_and_Boards")(type "Legacy")(uri "/Users/jkailimcnelly/git-checkouts/geeps-hardware/modules/RP_Silicon_KiCad/KiCadLibraries/MCU_RaspberryPi_and_Boards.lib")(options "")(descr ""))
-)

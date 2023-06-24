@@ -1,0 +1,24 @@
+Circuit: * C:\git-checkouts\geeps-hardware\ltspice\power_switch\push_on_hold_off_tran.asc
+
+WARNING: Node NC_01 is floating.
+
+WARNING: Less than two connections to node NC_01.  This node is used by C3.
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Jan 02 15:22:04 2023
+Total elapsed time: 0.085 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4068
+traniter = 4061
+tranpoints = 1668
+accept = 1593
+rejected = 75
+matrix size = 19
+fillins = 8
+solver = Normal
+Matrix Compiler1: 1.46 KB object code size  0.2/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.1/0.2
+

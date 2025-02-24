@@ -76588,7 +76588,7 @@
 			(justify left)
 		)
 	)
-	(gr_text "0.744 mm"
+	(gr_text "0.709 mm"
 		(at 115.757138 173.086 0)
 		(layer "Dwgs.User")
 		(uuid "633b286c-a8d6-48ce-a931-fe51986be271")

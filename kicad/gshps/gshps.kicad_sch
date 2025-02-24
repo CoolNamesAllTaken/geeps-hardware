@@ -18015,6 +18015,15 @@
 				(hide yes)
 			)
 		)
+		(property "Standard Cost" "0.14"
+			(at 254 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "549a98f2-feb3-4995-9150-22b5aa0e0d75")
 		)
@@ -18789,6 +18798,15 @@
 			)
 		)
 		(property "MPN" "DMN3200U-7"
+			(at 425.45 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Standard Cost" "0.14"
 			(at 425.45 106.68 0)
 			(effects
 				(font
@@ -20054,6 +20072,15 @@
 			)
 		)
 		(property "MPN" "DMN3200U-7"
+			(at 360.68 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Standard Cost" "0.14"
 			(at 360.68 100.33 0)
 			(effects
 				(font
@@ -23881,7 +23908,7 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.11"
+		(property "Standard Cost" "0.10"
 			(at 477.52 93.98 0)
 			(effects
 				(font

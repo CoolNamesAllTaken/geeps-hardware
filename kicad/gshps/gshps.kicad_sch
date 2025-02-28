@@ -16041,7 +16041,7 @@
 		(at 111.76 360.68 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -16101,6 +16101,15 @@
 			)
 		)
 		(property "Standard Cost" ""
+			(at 111.76 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 111.76 360.68 0)
 			(effects
 				(font
@@ -20244,7 +20253,7 @@
 		(at 111.76 345.44 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -20304,6 +20313,15 @@
 			)
 		)
 		(property "Standard Cost" ""
+			(at 111.76 345.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 111.76 345.44 0)
 			(effects
 				(font
@@ -25755,7 +25773,7 @@
 		(at 111.76 355.6 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -25815,6 +25833,15 @@
 			)
 		)
 		(property "Standard Cost" ""
+			(at 111.76 355.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 111.76 355.6 0)
 			(effects
 				(font
@@ -26837,7 +26864,7 @@
 		(at 111.76 350.52 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -26897,6 +26924,15 @@
 			)
 		)
 		(property "Standard Cost" ""
+			(at 111.76 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 111.76 350.52 0)
 			(effects
 				(font

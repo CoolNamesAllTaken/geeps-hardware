@@ -1169,7 +1169,6 @@
 		(path "/0d9a3b7f-8183-4134-8145-12aa6eabd100")
 		(sheetname "Root")
 		(sheetfile "gshps.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 2.7 0)
@@ -3595,7 +3594,6 @@
 		(path "/b8f0c224-3fde-4601-86c2-98dfacde0529")
 		(sheetname "Root")
 		(sheetfile "gshps.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 2.7 0)
@@ -3770,7 +3768,6 @@
 		(path "/53efe7cd-ce87-4329-b3fa-eb00b5403514")
 		(sheetname "Root")
 		(sheetfile "gshps.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 2.7 0)
@@ -4481,7 +4478,6 @@
 		(path "/c9058690-4d63-4ca0-84f2-23030def711d")
 		(sheetname "Root")
 		(sheetfile "gshps.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 2.7 0)

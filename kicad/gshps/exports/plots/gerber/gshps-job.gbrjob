@@ -5,20 +5,20 @@
       "Application": "Pcbnew",
       "Version": "8.0.6+1"
     },
-    "CreationDate": "2025-01-07T07:54:15+00:00"
+    "CreationDate": "2025-03-13T00:18:43+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "gshps",
       "GUID": "67736870-732e-46b6-9963-61645f706362",
-      "Revision": "B"
+      "Revision": "D"
     },
     "Size": {
       "X": 90.1,
       "Y": 55.1
     },
     "LayerNumber": 4,
-    "BoardThickness": 0.744,
+    "BoardThickness": 0.709,
     "Finish": "None"
   },
   "DesignRules": [
@@ -28,8 +28,8 @@
       "PadToTrack": 0.15,
       "TrackToTrack": 0.15,
       "MinLineWidth": 0.15,
-      "TrackToRegion": 0.2,
-      "RegionToRegion": 0.2
+      "TrackToRegion": 0.15,
+      "RegionToRegion": 0.15
     },
     {
       "Layers": "Inner",
@@ -138,7 +138,7 @@
     },
     {
       "Type": "Copper",
-      "Thickness": 0.035,
+      "Thickness": 0.0175,
       "Name": "In1.Cu"
     },
     {
@@ -150,7 +150,7 @@
     },
     {
       "Type": "Copper",
-      "Thickness": 0.035,
+      "Thickness": 0.0175,
       "Name": "In2.Cu"
     },
     {

@@ -1,20 +1,23 @@
-### Module positions - created on Tue 07 Jan 2025 07:54:26  ###
+### Module positions - created on Thu 13 Mar 2025 00:19:04  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : top
-# Ref        Val                       Package                                                  PosX      PosY       Rot         Side  
-C34          0.1uF                     C_0402_1005Metric                                        24.2000   -24.8000   0.0000      top   
-CR1          DRTR5V0U2SR-7             SOT-143                                                  8.4500    -26.0000   -90.0000    top   
-D1           RED                       LED_0603_1608Metric                                      -0.5000   -22.5000   180.0000    top   
-D2           GREEN                     LED_0603_1608Metric                                      -0.5000   -24.2000   180.0000    top   
-D5           GREEN                     LED_0603_1608Metric                                      67.0000   2.0000     90.0000     top   
-GRAPHIC1     Graphic                   BirdWithPants_Small_Right                                6.5000    3.0000     0.0000      top   
-GRAPHIC2     Graphic                   BirdWithPants_Small_Left                                 10.5000   3.0000     0.0000      top   
-J2           USB_C_Receptacle_USB2.0   USB_C_Receptacle_GCT_USB4115-03-C                        -0.1650   -30.2500   90.0000     top   
-J5           E2213PS0E                 Hirose_FH34SRJ-24S-0.5SH_1x24-1MP_P0.50mm_Horizontal     10.0000   -12.0000   -90.0000    top   
-SW1          SW_Push                   SW_SPST_TL3342                                           66.5000   -42.5000   -90.0000    top   
-SW4          SW_Push                   SW_SPST_TL3342                                           74.5000   -17.5000   0.0000      top   
-SW5          SW_Push                   SW_SPST_TL3342                                           74.5000   -24.5000   0.0000      top   
-SW6          SW_Push                   SW_SPST_TL3342                                           74.5000   -31.5000   0.0000      top   
-U5           PA1616S                   PA1616S                                                  52.0000   -38.0000   0.0000      top   
+# Ref        Val                       Package                                                         PosX      PosY       Rot         Side  
+C34          0.1uF                     C_0402_1005Metric                                               24.2000   -24.8000   0.0000      top   
+CR1          DRTR5V0U2SR-7             SOT-143                                                         8.4500    -26.0000   -90.0000    top   
+D1           RED                       LED_0603_1608Metric                                             -0.5000   -22.5000   180.0000    top   
+D2           GREEN                     LED_0603_1608Metric                                             -0.5000   -24.2000   180.0000    top   
+D5           GREEN                     LED_0603_1608Metric                                             67.0000   2.0000     90.0000     top   
+GRAPHIC1     Graphic                   BirdWithPants_Small_Right                                       6.5000    3.0000     0.0000      top   
+GRAPHIC2     Graphic                   BirdWithPants_Small_Left                                        10.5000   3.0000     0.0000      top   
+H1           MountingHole              MountingHole_2.7mm_M2.5_Isolated                                0.0000    0.0000     0.0000      top   
+H2           MountingHole              MountingHole_2.7mm_M2.5_Isolated                                77.0000   0.0000     0.0000      top   
+H3           MountingHole              MountingHole_2.7mm_M2.5_Isolated                                0.0000    -42.0000   0.0000      top   
+H4           MountingHole              MountingHole_2.7mm_M2.5_Isolated                                77.0000   -42.0000   0.0000      top   
+J2           USB_C_Receptacle_USB2.0   USB_C_Receptacle_GCT_USB4115-03-C                               -0.1650   -30.2500   90.0000     top   
+SW1          SW_Push                   SW_SPST_TL3342                                                  66.5000   -42.5000   -90.0000    top   
+SW4          SW_Push                   SW_SPST_TL3342                                                  74.5000   -17.5000   0.0000      top   
+SW5          SW_Push                   SW_SPST_TL3342                                                  74.5000   -24.5000   0.0000      top   
+SW6          SW_Push                   SW_SPST_TL3342                                                  74.5000   -31.5000   0.0000      top   
+U5           PA1616S                   PA1616S                                                         52.0000   -38.0000   0.0000      top   
 ## End

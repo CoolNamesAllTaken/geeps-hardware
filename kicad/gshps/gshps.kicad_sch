@@ -6,8 +6,8 @@
 	(paper "C")
 	(title_block
 		(title "Global Scavenger Hunt Positioning System")
-		(date "2025-02-15")
-		(rev "C")
+		(date "2025-03-12")
+		(rev "D")
 		(company "Pants for Birds")
 	)
 	(lib_symbols
@@ -8899,7 +8899,7 @@
 		(uuid "bb57a943-48ff-46a3-b820-8b740da8ce1a")
 	)
 	(junction
-		(at 29.21 177.8)
+		(at 31.75 167.64)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c06b28ca-b954-477a-a6cd-c2c16f1f91ca")
@@ -8957,6 +8957,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d5c8dff5-3d10-4546-be3c-a00c1ed1bc56")
+	)
+	(junction
+		(at 31.75 180.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d5e35fd6-1ac2-459d-ae64-22476492b673")
 	)
 	(junction
 		(at 187.96 73.66)
@@ -9580,6 +9586,16 @@
 	)
 	(wire
 		(pts
+			(xy 44.45 180.34) (xy 44.45 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17316b8e-eeea-4d7d-a0c4-0e60a75bfe16")
+	)
+	(wire
+		(pts
 			(xy 57.15 302.26) (xy 71.12 302.26)
 		)
 		(stroke
@@ -9650,7 +9666,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 177.8) (xy 29.21 179.07)
+			(xy 31.75 167.64) (xy 31.75 168.91)
 		)
 		(stroke
 			(width 0)
@@ -9777,6 +9793,16 @@
 			(type default)
 		)
 		(uuid "23e15fc2-4cbf-4352-9b0a-21698908b61e")
+	)
+	(wire
+		(pts
+			(xy 31.75 180.34) (xy 31.75 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24e51eac-8c0a-430f-94d6-503137557ac8")
 	)
 	(wire
 		(pts
@@ -9990,7 +10016,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 177.8) (xy 29.21 177.8)
+			(xy 31.75 167.64) (xy 44.45 167.64)
 		)
 		(stroke
 			(width 0)
@@ -10410,6 +10436,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 180.34) (xy 44.45 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45ab790a-8a52-4242-8861-f8f326f9747d")
+	)
+	(wire
+		(pts
 			(xy 287.02 285.75) (xy 302.26 285.75)
 		)
 		(stroke
@@ -10590,7 +10626,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 166.37) (xy 29.21 168.91)
+			(xy 31.75 156.21) (xy 31.75 158.75)
 		)
 		(stroke
 			(width 0)
@@ -10817,6 +10853,16 @@
 			(type default)
 		)
 		(uuid "5bfd8a80-4949-4e3c-972d-5a097b0c4e83")
+	)
+	(wire
+		(pts
+			(xy 44.45 167.64) (xy 44.45 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ca2033a-5ba5-452b-b73b-3ee445e42fe9")
 	)
 	(wire
 		(pts
@@ -11220,7 +11266,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 176.53) (xy 29.21 177.8)
+			(xy 31.75 166.37) (xy 31.75 167.64)
 		)
 		(stroke
 			(width 0)
@@ -13820,7 +13866,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 189.23) (xy 29.21 190.5)
+			(xy 31.75 179.07) (xy 31.75 180.34)
 		)
 		(stroke
 			(width 0)
@@ -14151,7 +14197,7 @@
 	)
 	(text "RESET\nBUTTON"
 		(exclude_from_sim no)
-		(at 17.78 186.69 0)
+		(at 20.32 176.53 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14619,7 +14665,7 @@
 		(uuid "5ee910a6-6d64-4254-a550-96a4f7005b87")
 	)
 	(label "~{RESET}"
-		(at 39.37 177.8 180)
+		(at 41.91 167.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15623,7 +15669,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 29.21 190.5 0)
+		(at 31.75 181.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15632,7 +15678,7 @@
 		(fields_autoplaced yes)
 		(uuid "04bd6ea5-92b9-420a-9beb-9386f0f089fd")
 		(property "Reference" "#PWR046"
-			(at 29.21 196.85 0)
+			(at 31.75 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15641,7 +15687,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 29.21 195.58 0)
+			(at 31.75 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15649,7 +15695,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 29.21 190.5 0)
+			(at 31.75 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15658,7 +15704,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 29.21 190.5 0)
+			(at 31.75 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15667,7 +15713,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 29.21 190.5 0)
+			(at 31.75 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17229,7 +17275,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 29.21 166.37 0)
+		(at 31.75 156.21 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17238,7 +17284,7 @@
 		(fields_autoplaced yes)
 		(uuid "1eb194cb-32a2-40d1-93f6-cc1885b83b40")
 		(property "Reference" "#PWR041"
-			(at 29.21 170.18 0)
+			(at 31.75 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17247,7 +17293,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 29.21 161.29 0)
+			(at 31.75 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17255,7 +17301,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 29.21 166.37 0)
+			(at 31.75 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17264,7 +17310,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 29.21 166.37 0)
+			(at 31.75 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17273,7 +17319,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 29.21 166.37 0)
+			(at 31.75 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26860,6 +26906,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 44.45 173.99 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c8e75aca-873c-4ecf-af18-8d5808ecd35e")
+		(property "Reference" "C35"
+			(at 48.26 172.7199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 45.72 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 43.4848 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 44.45 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 44.45 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3696949a-463f-46a2-9dd9-a902463f26aa")
+		)
+		(pin "2"
+			(uuid "8d2f90b5-8fd1-4cee-9069-07a630f715cb")
+		)
+		(instances
+			(project "gshps"
+				(path "/ab385390-0f63-468b-8489-a2ebd6764c2d"
+					(reference "C35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole")
 		(at 111.76 350.52 0)
 		(unit 1)
@@ -27102,7 +27217,7 @@
 				)
 			)
 		)
-		(property "REV" "REV C"
+		(property "REV" "REV D"
 			(at 152.4 349.25 0)
 			(effects
 				(font
@@ -27130,7 +27245,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 29.21 184.15 90)
+		(at 31.75 173.99 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27138,7 +27253,7 @@
 		(dnp no)
 		(uuid "d3d8edf6-ccd8-4ece-b13d-8bd8b61aea83")
 		(property "Reference" "SW3"
-			(at 30.48 182.8799 90)
+			(at 33.02 172.7199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27147,7 +27262,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 30.48 185.4199 90)
+			(at 33.02 175.2599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27156,7 +27271,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3342"
-			(at 24.13 184.15 0)
+			(at 26.67 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27165,7 +27280,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 24.13 184.15 0)
+			(at 26.67 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27174,7 +27289,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 29.21 184.15 0)
+			(at 31.75 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27183,7 +27298,7 @@
 			)
 		)
 		(property "MPN" "TL3342F160QG/TR"
-			(at 29.21 184.15 0)
+			(at 31.75 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27192,7 +27307,7 @@
 			)
 		)
 		(property "Standard Cost" "0.40"
-			(at 29.21 184.15 0)
+			(at 31.75 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27415,7 +27530,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 29.21 172.72 0)
+		(at 31.75 162.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27423,7 +27538,7 @@
 		(dnp no)
 		(uuid "dd79d8ed-bf0b-4373-8d8c-e22ed312d123")
 		(property "Reference" "R25"
-			(at 27.94 171.45 0)
+			(at 30.48 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27432,7 +27547,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 27.94 173.99 0)
+			(at 30.48 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27441,7 +27556,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 30.226 172.974 90)
+			(at 32.766 162.814 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27450,7 +27565,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 29.21 172.72 0)
+			(at 31.75 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27459,7 +27574,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 29.21 172.72 0)
+			(at 31.75 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)

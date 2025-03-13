@@ -1,4 +1,4 @@
-### Module positions - created on Mon 24 Feb 2025 18:19:34  ###
+### Module positions - created on Thu 13 Mar 2025 00:19:04  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : bottom
@@ -36,6 +36,7 @@ C30          1uF 25V                   C_0603_1608Metric                        
 C31          1uF 25V                   C_0603_1608Metric                                               21.0000   -12.0000   -90.0000    bottom
 C32          4.7uF 25V                 C_0805_2012Metric                                               27.5000   -8.5000    -90.0000    bottom
 C33          1uF 25V                   C_0603_1608Metric                                               13.8000   -19.5000   0.0000      bottom
+C35          0.1uF                     C_0402_1005Metric                                               42.1000   -24.0000   -90.0000    bottom
 D3           40V 2A                    D_SOD-123F                                                      55.0000   -2.0000    90.0000     bottom
 D4           1N4148                    D_SOD-123                                                       61.5000   -15.5000   90.0000     bottom
 D6           40V 2A                    D_SOD-123F                                                      24.0000   -7.5000    0.0000      bottom

@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "8.0.6+1"
     },
-    "CreationDate": "2025-02-24T18:19:18+00:00"
+    "CreationDate": "2025-03-13T00:18:43+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "gshps",
       "GUID": "67736870-732e-46b6-9963-61645f706362",
-      "Revision": "C"
+      "Revision": "D"
     },
     "Size": {
       "X": 90.1,
